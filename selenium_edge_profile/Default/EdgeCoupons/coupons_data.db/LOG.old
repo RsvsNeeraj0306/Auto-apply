@@ -1,0 +1,6 @@
+2025/07/19-17:19:06.627 3df8 Reusing MANIFEST C:\MyProjects\Python Projects\auto-apply\selenium_edge_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/07/19-17:19:06.628 3df8 Recovering log #32
+2025/07/19-17:19:06.629 3df8 Reusing old log C:\MyProjects\Python Projects\auto-apply\selenium_edge_profile\Default\EdgeCoupons/coupons_data.db/000032.log 
+2025/07/19-17:19:06.800 1f88 Level-0 table #37: started
+2025/07/19-17:19:06.812 1f88 Level-0 table #37: 672161 bytes OK
+2025/07/19-17:19:06.817 1f88 Delete type=0 #32

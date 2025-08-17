@@ -1,0 +1,30 @@
+0:00:14 Tab3 StartNav8 #renderer-script #link
+0:00:14 Tab3 FinishNav8
+0:00:14 Tab3 StartNav9 #renderer-script #auto_subframe
+0:00:14 Tab3 StartNav10 #renderer-script #auto_subframe
+0:00:14 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:00:14 Tab3 FinishNav10
+0:00:14 Tab3 PageLoad
+0:00:14 Tab4 StartNav11 #ntp #link
+0:00:14 Tab3 StartNav12 #renderer-script #auto_subframe
+0:00:14 Tab3 FinishNav12
+0:00:14 Tab3 FinishNav9
+0:00:14 Tab3 PageLoad
+0:00:14 Tab3 PageLoad
+0:00:14 Tab3 StartNav13 #renderer-script #auto_subframe
+0:00:14 Tab3 FinishNav13
+0:00:14 Tab3 PageLoad
+0:00:14 Tab4 FinishNav11
+0:00:14 Microsoft.Autofill.Password.SignIn.NoAutofillSuggestions
+0:00:14 Tab3 PageLoad
+0:00:15 Tab4 PageLoad #ntp
+0:00:15 Autofill_PolledProfileSuggestions
+0:00:15 Autofill_ShowedProfileSuggestions
+0:00:19 Autofill_SelectedSuggestion
+0:00:19 Autofill_FilledProfileSuggestion
+0:00:19 Widget Closed: PopupBaseView
+0:00:21 Widget Closed: StatusBubble
+0:00:21 Tab3 StartNav14 #renderer-user #link
+0:00:21 Tab3 FinishNav14
+0:00:22 Autofill_OnWillSubmitForm
+0:10:01 Microsoft.Shutdown.ExitIgnoreUnloadHandlers

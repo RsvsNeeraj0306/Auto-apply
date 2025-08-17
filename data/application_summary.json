@@ -1,0 +1,99 @@
+{
+  "total_processed": 16,
+  "applied_count": 14,
+  "saved_count": 2,
+  "failed_count": 0,
+  "skipped_count": 0,
+  "applied_jobs": [
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Technology Management Lead",
+      "company": "Deutsche Bank",
+      "posted": "1 week ago"
+    },
+    {
+      "title": "Senior Software Engineer Java",
+      "company": "Blackbaud",
+      "posted": "1 week ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Senior Analyst",
+      "company": "eClerx",
+      "posted": "2 weeks ago"
+    },
+    {
+      "title": "Technology Management Lead",
+      "company": "Deutsche Bank",
+      "posted": "1 week ago"
+    },
+    {
+      "title": "Senior Software Engineer Java",
+      "company": "Blackbaud",
+      "posted": "1 week ago"
+    }
+  ],
+  "saved_jobs": [
+    {
+      "title": "Associate engineer",
+      "company": "BT Group",
+      "posted": "5 days ago"
+    },
+    {
+      "title": "RPA Developer",
+      "company": "Prolifics",
+      "posted": "2 weeks ago"
+    }
+  ],
+  "failed_jobs": [],
+  "skipped_jobs": [],
+  "timestamp": "2025-08-13 16:38:04",
+  "blacklisted_companies": [
+    "Accenture",
+    "TCS",
+    "Infosys"
+  ]
+}

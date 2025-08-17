@@ -1,0 +1,4 @@
+.venv
+msedgedriver.exe
+./data/**
+__pycache__
